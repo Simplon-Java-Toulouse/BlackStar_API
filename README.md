@@ -15,6 +15,12 @@ grâce à l'[API](https://developer.mozilla.org/en-US/docs/Glossary/API) [SWAPI]
 
 [![](https://i.imgur.com/MT72RHi.png)](https://i.imgur.com/MT72RHi)
 
+## Avant Toutes Choses
+
+Forker le repo sur votre profile github, cloner le dans votre machine.
+
+Faites un npm install & un npm run watch.
+
 ## User Stories
 
 #### Personnages :
